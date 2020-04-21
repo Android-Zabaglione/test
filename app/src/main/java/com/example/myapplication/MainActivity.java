@@ -14,4 +14,5 @@ public class MainActivity extends AppCompatActivity {
 
     // 은지
     // 송이 ㅎㅅㅎr~*
+    // 주 ㅠㅠㅠㅠ 영 ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ
 }
